@@ -14,8 +14,8 @@ I am 22 year old Junior developer with half-yaer experiance
 * React js
 
 ### Experiance
-2020 July - Sebtember Internship Revolution team
-2020 October - Till now Freelancer
+* 2020 July - Sebtember Internship Revolution team
+* 2020 October - Till now Freelancer
 
 ### Languages
 English - IELTS 6.0 (B2)
