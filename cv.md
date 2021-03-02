@@ -1,8 +1,8 @@
 # Akmal Baxodirov
 
 ### Social networks
-* Telegram [baxodirov09](https://t.me/baxodirov09)
-* Instagram[baxodirov09](https://www.instagram.com/baxodirov09/)
+* Telegram - [baxodirov09](https://t.me/baxodirov09)
+* Instagram - [baxodirov09](https://www.instagram.com/baxodirov09/)
 
 ### About Me
 I am 22 year old Junior developer with half-yaer experiance
